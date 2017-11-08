@@ -1,4 +1,5 @@
 <!-- This comment was added during step 7 -->
+<!-- This conflicting change was done on the master -->
 <!-- This line is a change done to one branch -->
 <?xml version="1.0" encoding="utf-8"?>
 <!-- This comment was added onto the code via the master branch -->
